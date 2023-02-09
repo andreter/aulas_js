@@ -1,0 +1,13 @@
+- Para adicionar elementos do Html no Js
+
+Criar uma variavel e usar o CreateElement e colocar a tag
+que você deseha criar
+
+Se quise colocar algum texto use o innerText
+
+Const paragrafo= document.createElement('p')
+paragrafo.innerText = "Isso é um paragrafo"
+
+
+
+
